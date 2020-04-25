@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "422630475629",
+    "firebase_url": "https://cars-8c23d.firebaseio.com",
+    "project_id": "cars-8c23d",
+    "storage_bucket": "cars-8c23d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422630475629:android:498e1b81f7bc0c7addfc64",
+        "android_client_info": {
+          "package_name": "com.kz.carsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422630475629-mc0r5c8jsbcaali4qr4rm1coit5bu70d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpK3jor-hKhQc_r9QIQLy2I6Ikm7GM4ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422630475629-mc0r5c8jsbcaali4qr4rm1coit5bu70d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422630475629:android:01415e70aaee0fccddfc64",
+        "android_client_info": {
+          "package_name": "com.tauk.carsdemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422630475629-mc0r5c8jsbcaali4qr4rm1coit5bu70d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpK3jor-hKhQc_r9QIQLy2I6Ikm7GM4ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422630475629-mc0r5c8jsbcaali4qr4rm1coit5bu70d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
