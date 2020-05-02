@@ -11,12 +11,13 @@ public class Car {
     public String postedByUser;
     public String posterEmail;
     public String posterMobile;
+    public String storageImageURL;
 
     public Car() {
     }
 
     public Car(String carRegNo, String carModelName, int year, double price,
-               String postedByUser, String posterEmail, String posterMobile) {
+               String postedByUser, String posterEmail, String posterMobile, String storageImageURL) {
         this.carRegNo  = carRegNo;
         this.carModelName = carModelName;
         this.year = year;
@@ -24,6 +25,7 @@ public class Car {
         this.postedByUser = postedByUser;
         this.posterEmail = posterEmail;
         this.posterMobile = posterMobile;
+        this.storageImageURL = storageImageURL;
     }
 
     @Override
