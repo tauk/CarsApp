@@ -12,3 +12,6 @@
 /captures
 .externalNativeBuild
 .cxx
+.json
+.json1
+.json2
